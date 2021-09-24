@@ -1,5 +1,4 @@
 ### Hi there 👋
 
 ##### My name is Rohan, I'm from Toronto 🇨🇦
-##### Below you'll find some of my favourite personal projects
-##### You can reach me at contact[at]rohanlikhite[dot]com
+##### I build things that I'd use myself and enjoy working with large distributed systems
